@@ -15,6 +15,9 @@
 		28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28AD735F0D9D9599002E5188 /* MainWindow.xib */; };
 		28C286E10D94DF7D0034E888 /* RootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */; };
 		28F335F11007B36200424DE2 /* RootViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 28F335F01007B36200424DE2 /* RootViewController.xib */; };
+		56DE82C113BDC2C600EC2546 /* DrinkArray.plist in Resources */ = {isa = PBXBuildFile; fileRef = 56DE82C013BDC2C600EC2546 /* DrinkArray.plist */; };
+		56DE82EC13BDD7EE00EC2546 /* DrinkDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */; };
+		56DE82ED13BDD7EE00EC2546 /* DrinkDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 56DE82EB13BDD7EE00EC2546 /* DrinkDetailViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +33,10 @@
 		28C286E00D94DF7D0034E888 /* RootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RootViewController.m; sourceTree = "<group>"; };
 		28F335F01007B36200424DE2 /* RootViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RootViewController.xib; sourceTree = "<group>"; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		56DE82C013BDC2C600EC2546 /* DrinkArray.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = DrinkArray.plist; sourceTree = "<group>"; };
+		56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = DrinkDetailViewController.h; path = ../DrinkDetailViewController.h; sourceTree = "<group>"; };
+		56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = DrinkDetailViewController.m; path = ../DrinkDetailViewController.m; sourceTree = "<group>"; };
+		56DE82EB13BDD7EE00EC2546 /* DrinkDetailViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = DrinkDetailViewController.xib; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* DrinkMixer-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "DrinkMixer-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -52,6 +59,8 @@
 			children = (
 				28C286DF0D94DF7D0034E888 /* RootViewController.h */,
 				28C286E00D94DF7D0034E888 /* RootViewController.m */,
+				56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */,
+				56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */,
 				1D3623240D0F684500981E51 /* DrinkMixerAppDelegate.h */,
 				1D3623250D0F684500981E51 /* DrinkMixerAppDelegate.m */,
 			);
@@ -93,6 +102,8 @@
 				28F335F01007B36200424DE2 /* RootViewController.xib */,
 				28AD735F0D9D9599002E5188 /* MainWindow.xib */,
 				8D1107310486CEB800E47090 /* DrinkMixer-Info.plist */,
+				56DE82C013BDC2C600EC2546 /* DrinkArray.plist */,
+				56DE82EB13BDD7EE00EC2546 /* DrinkDetailViewController.xib */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -158,6 +169,8 @@
 			files = (
 				28AD73600D9D9599002E5188 /* MainWindow.xib in Resources */,
 				28F335F11007B36200424DE2 /* RootViewController.xib in Resources */,
+				56DE82C113BDC2C600EC2546 /* DrinkArray.plist in Resources */,
+				56DE82ED13BDD7EE00EC2546 /* DrinkDetailViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -171,6 +184,7 @@
 				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
 				1D3623260D0F684500981E51 /* DrinkMixerAppDelegate.m in Sources */,
 				28C286E10D94DF7D0034E888 /* RootViewController.m in Sources */,
+				56DE82EC13BDD7EE00EC2546 /* DrinkDetailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
