@@ -1,16 +1,13 @@
-//
-//  DrinkDetailViewController.h
-//  DrinkMixer
-//
-//  Created by Christian Phang on 7/1/11.
-//  Copyright 2011 __MyCompanyName__. All rights reserved.
-//
-
 #import <UIKit/UIKit.h>
 
-
 @interface DrinkDetailViewController : UIViewController {
-
+	IBOutlet UITextField *nameTextField;
+	IBOutlet UITextView *ingredientsTextView;
+	IBOutlet UITextView *directionsTextView;
 }
+
+@property (nonatomic,retain) UITextField *nameTextField;
+@property (nonatomic,retain) UITextView *ingredientsTextView;
+@property (nonatomic,retain) UITextView *directionsTextView;
 
 @end

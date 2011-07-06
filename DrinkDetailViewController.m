@@ -1,16 +1,7 @@
-//
-//  DrinkDetailViewController.m
-//  DrinkMixer
-//
-//  Created by Christian Phang on 7/1/11.
-//  Copyright 2011 __MyCompanyName__. All rights reserved.
-//
-
 #import "DrinkDetailViewController.h"
 
-
 @implementation DrinkDetailViewController
-
+@synthesize nameTextField, ingredientsTextView, directionsTextView;
 /*
  // The designated initializer.  Override if you create the controller programmatically and want to perform customization that is not appropriate for viewDidLoad.
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil {
@@ -51,6 +42,9 @@
 
 
 - (void)dealloc {
+	[nameTextField release];
+	[ingredientsTextView release];
+	[directionsTextView release];
     [super dealloc];
 }
 
