@@ -31,17 +31,17 @@
 	};
 	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1217, 898}}";
-			sepNavSelRange = "{166, 0}";
-			sepNavVisRange = "{0, 166}";
+			sepNavIntBoundsRect = "{{0, 0}, {726, 923}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 313}";
 			sepNavWindowFrame = "{{147, -800}, {1276, 800}}";
 		};
 	};
 	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1055, 884}}";
-			sepNavSelRange = "{1225, 0}";
-			sepNavVisRange = "{112, 1400}";
+			sepNavIntBoundsRect = "{{0, 0}, {1195, 923}}";
+			sepNavSelRange = "{1358, 0}";
+			sepNavVisRange = "{0, 2184}";
 			sepNavWindowFrame = "{{324, 0}, {1276, 1028}}";
 		};
 	};
@@ -54,7 +54,7 @@
 		);
 		breakpoints = (
 			56C0769913C509220070B54D /* DrinkDetailViewController.m:13 */,
-			5630257113C637C300BFE860 /* RootViewController.m:39 */,
+			5630257113C637C300BFE860 /* RootViewController.m:38 */,
 		);
 		codeSenseManager = 56DE828A13BA787B00EC2546 /* Code sense */;
 		executables = (
@@ -195,6 +195,23 @@
 			563025E513C70B2400BFE860 = 563025E513C70B2400BFE860 /* PBXTextBookmark */;
 			563025EF13C73B9900BFE860 = 563025EF13C73B9900BFE860 /* PBXTextBookmark */;
 			564F150A13CA19D3009C3BAE /* PBXTextBookmark */ = 564F150A13CA19D3009C3BAE /* PBXTextBookmark */;
+			564F151D13CA22F7009C3BAE /* PBXBookmark */ = 564F151D13CA22F7009C3BAE /* PBXBookmark */;
+			564F151F13CA2503009C3BAE /* PBXBookmark */ = 564F151F13CA2503009C3BAE /* PBXBookmark */;
+			564F154113CA2845009C3BAE /* PBXTextBookmark */ = 564F154113CA2845009C3BAE /* PBXTextBookmark */;
+			564F154213CA2845009C3BAE /* XCBuildMessageTextBookmark */ = 564F154213CA2845009C3BAE /* XCBuildMessageTextBookmark */;
+			564F154313CA2845009C3BAE /* PBXTextBookmark */ = 564F154313CA2845009C3BAE /* PBXTextBookmark */;
+			564F154613CA2845009C3BAE /* PBXTextBookmark */ = 564F154613CA2845009C3BAE /* PBXTextBookmark */;
+			564F154713CA2845009C3BAE /* PBXTextBookmark */ = 564F154713CA2845009C3BAE /* PBXTextBookmark */;
+			564F154813CA2845009C3BAE /* PBXTextBookmark */ = 564F154813CA2845009C3BAE /* PBXTextBookmark */;
+			564F154B13CA2845009C3BAE /* PBXTextBookmark */ = 564F154B13CA2845009C3BAE /* PBXTextBookmark */;
+			564F154C13CA2845009C3BAE /* PBXTextBookmark */ = 564F154C13CA2845009C3BAE /* PBXTextBookmark */;
+			564F154F13CA2845009C3BAE /* PBXTextBookmark */ = 564F154F13CA2845009C3BAE /* PBXTextBookmark */;
+			564F155213CA2845009C3BAE /* PBXTextBookmark */ = 564F155213CA2845009C3BAE /* PBXTextBookmark */;
+			564F155E13CA2A5C009C3BAE /* PBXTextBookmark */ = 564F155E13CA2A5C009C3BAE /* PBXTextBookmark */;
+			564F155F13CA2A5C009C3BAE /* PBXTextBookmark */ = 564F155F13CA2A5C009C3BAE /* PBXTextBookmark */;
+			564F156013CA2A5C009C3BAE /* PBXTextBookmark */ = 564F156013CA2A5C009C3BAE /* PBXTextBookmark */;
+			564F156113CA2A5C009C3BAE /* PBXTextBookmark */ = 564F156113CA2A5C009C3BAE /* PBXTextBookmark */;
+			564F156213CA2A5C009C3BAE /* PBXTextBookmark */ = 564F156213CA2A5C009C3BAE /* PBXTextBookmark */;
 			56C076CD13C509FF0070B54D = 56C076CD13C509FF0070B54D /* PBXTextBookmark */;
 			56C076FC13C50F9B0070B54D = 56C076FC13C50F9B0070B54D /* PBXTextBookmark */;
 			56DE82AD13BBAF1A00EC2546 = 56DE82AD13BBAF1A00EC2546 /* PBXTextBookmark */;
@@ -223,7 +240,7 @@
 		rLen = 0;
 		rLoc = 9223372036854775808;
 	};
-	5630257113C637C300BFE860 /* RootViewController.m:39 */ = {
+	5630257113C637C300BFE860 /* RootViewController.m:38 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -235,7 +252,7 @@
 		functionName = "-tableView:cellForRowAtIndexPath:";
 		hitCount = 1;
 		ignoreCount = 0;
-		lineNumber = 39;
+		lineNumber = 38;
 		location = DrinkMixer;
 		modificationTime = 331757645.0286161;
 		originalNumberOfMultipleMatches = 1;
@@ -298,6 +315,170 @@
 		rLoc = 438;
 		rType = 0;
 		vrLen = 717;
+		vrLoc = 0;
+	};
+	564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1217, 898}}";
+			sepNavSelRange = "{124, 0}";
+			sepNavVisRange = "{0, 136}";
+		};
+	};
+	564F151D13CA22F7009C3BAE /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
+	};
+	564F151F13CA2503009C3BAE /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
+	};
+	564F154113CA2845009C3BAE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
+		name = "DrinkDetailViewController.m: 13";
+		rLen = 0;
+		rLoc = 438;
+		rType = 0;
+		vrLen = 717;
+		vrLoc = 0;
+	};
+	564F154213CA2845009C3BAE /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Cannot find interface declaration for 'DrinkDetailViewController', superclass of 'AddDrinkViewController'";
+		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 3;
+		rType = 1;
+	};
+	564F154313CA2845009C3BAE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
+		name = "AddDrinkViewController.h: 8";
+		rLen = 0;
+		rLoc = 135;
+		rType = 0;
+		vrLen = 136;
+		vrLoc = 0;
+	};
+	564F154613CA2845009C3BAE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 313;
+		vrLoc = 0;
+	};
+	564F154713CA2845009C3BAE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 62";
+		rLen = 0;
+		rLoc = 2097;
+		rType = 0;
+		vrLen = 2106;
+		vrLoc = 0;
+	};
+	564F154813CA2845009C3BAE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 68";
+		rLen = 0;
+		rLoc = 2183;
+		rType = 0;
+		vrLen = 2095;
+		vrLoc = 96;
+	};
+	564F154B13CA2845009C3BAE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 37";
+		rLen = 0;
+		rLoc = 1358;
+		rType = 0;
+		vrLen = 2013;
+		vrLoc = 0;
+	};
+	564F154C13CA2845009C3BAE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 38";
+		rLen = 0;
+		rLoc = 1358;
+		rType = 0;
+		vrLen = 2184;
+		vrLoc = 0;
+	};
+	564F154F13CA2845009C3BAE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
+		name = "DrinkDetailViewController.m: 7";
+		rLen = 1;
+		rLoc = 223;
+		rType = 0;
+		vrLen = 717;
+		vrLoc = 0;
+	};
+	564F155213CA2845009C3BAE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
+		name = "AddDrinkViewController.h: 4";
+		rLen = 0;
+		rLoc = 124;
+		rType = 0;
+		vrLen = 136;
+		vrLoc = 0;
+	};
+	564F155E13CA2A5C009C3BAE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
+		name = "AddDrinkViewController.h: 8";
+		rLen = 0;
+		rLoc = 135;
+		rType = 0;
+		vrLen = 136;
+		vrLoc = 0;
+	};
+	564F155F13CA2A5C009C3BAE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 66";
+		rLen = 0;
+		rLoc = 2137;
+		rType = 0;
+		vrLen = 2095;
+		vrLoc = 96;
+	};
+	564F156013CA2A5C009C3BAE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 38";
+		rLen = 0;
+		rLoc = 1358;
+		rType = 0;
+		vrLen = 2184;
+		vrLoc = 0;
+	};
+	564F156113CA2A5C009C3BAE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
+		name = "DrinkDetailViewController.m: 7";
+		rLen = 1;
+		rLoc = 223;
+		rType = 0;
+		vrLen = 717;
+		vrLoc = 0;
+	};
+	564F156213CA2A5C009C3BAE /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
+		name = "AddDrinkViewController.h: 4";
+		rLen = 0;
+		rLoc = 124;
+		rType = 0;
+		vrLen = 136;
 		vrLoc = 0;
 	};
 	56C0769913C509220070B54D /* DrinkDetailViewController.m:13 */ = {
@@ -399,7 +580,7 @@
 		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
 		name = "RootViewController.h: 4";
 		rLen = 0;
-		rLoc = 96;
+		rLoc = 97;
 		rType = 0;
 		vrLen = 166;
 		vrLoc = 0;
@@ -414,7 +595,7 @@
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
 		name = "RootViewController.m: 25";
 		rLen = 0;
-		rLoc = 717;
+		rLoc = 795;
 		rType = 0;
 		vrLen = 907;
 		vrLoc = 924;
@@ -429,8 +610,8 @@
 	};
 	56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1337, 460}}";
-			sepNavSelRange = "{438, 0}";
+			sepNavIntBoundsRect = "{{0, 0}, {1217, 644}}";
+			sepNavSelRange = "{223, 1}";
 			sepNavVisRange = "{0, 717}";
 			sepNavWindowFrame = "{{4, 4}, {1276, 774}}";
 		};
