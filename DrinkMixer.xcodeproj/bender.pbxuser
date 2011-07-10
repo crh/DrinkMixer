@@ -39,9 +39,9 @@
 	};
 	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1217, 923}}";
-			sepNavSelRange = "{589, 0}";
-			sepNavVisRange = "{0, 2089}";
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 884}}";
+			sepNavSelRange = "{1225, 0}";
+			sepNavVisRange = "{112, 1400}";
 			sepNavWindowFrame = "{{324, 0}, {1276, 1028}}";
 		};
 	};
@@ -50,6 +50,7 @@
 		activeExecutable = 56DE827913BA786600EC2546 /* DrinkMixer */;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* DrinkMixer */;
 		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* DrinkMixer */,
 		);
 		breakpoints = (
 			56C0769913C509220070B54D /* DrinkDetailViewController.m:13 */,
@@ -93,7 +94,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					222,
+					1159,
 					20,
 					48,
 					43,
@@ -184,48 +185,20 @@
 					PBXFileDataSource_Warnings_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 331681699;
-			PBXWorkspaceStateSaveDate = 331681699;
+			PBXPerProjectTemplateStateSaveDate = 332011970;
+			PBXWorkspaceStateSaveDate = 332011970;
 		};
 		perUserProjectItems = {
-			5630255B13C6378C00BFE860 /* PlistBookmark */ = 5630255B13C6378C00BFE860 /* PlistBookmark */;
-			5630255C13C6378C00BFE860 /* PlistBookmark */ = 5630255C13C6378C00BFE860 /* PlistBookmark */;
-			5630255D13C6378C00BFE860 /* PlistBookmark */ = 5630255D13C6378C00BFE860 /* PlistBookmark */;
-			5630256013C6378C00BFE860 /* PBXTextBookmark */ = 5630256013C6378C00BFE860 /* PBXTextBookmark */;
-			5630256113C6378C00BFE860 /* PBXTextBookmark */ = 5630256113C6378C00BFE860 /* PBXTextBookmark */;
-			5630257513C637C900BFE860 /* PlistBookmark */ = 5630257513C637C900BFE860 /* PlistBookmark */;
-			5630257613C637C900BFE860 /* PBXTextBookmark */ = 5630257613C637C900BFE860 /* PBXTextBookmark */;
-			5630257713C637C900BFE860 /* PBXTextBookmark */ = 5630257713C637C900BFE860 /* PBXTextBookmark */;
-			563025A113C706F100BFE860 /* PlistBookmark */ = 563025A113C706F100BFE860 /* PlistBookmark */;
-			563025A413C706F100BFE860 /* PBXTextBookmark */ = 563025A413C706F100BFE860 /* PBXTextBookmark */;
-			563025A513C706F100BFE860 /* PBXTextBookmark */ = 563025A513C706F100BFE860 /* PBXTextBookmark */;
-			563025A613C706F100BFE860 /* PBXTextBookmark */ = 563025A613C706F100BFE860 /* PBXTextBookmark */;
-			563025A913C706F100BFE860 /* PBXTextBookmark */ = 563025A913C706F100BFE860 /* PBXTextBookmark */;
-			563025AA13C706F100BFE860 /* PBXTextBookmark */ = 563025AA13C706F100BFE860 /* PBXTextBookmark */;
-			563025AB13C706F100BFE860 /* PBXTextBookmark */ = 563025AB13C706F100BFE860 /* PBXTextBookmark */;
-			563025C913C7093100BFE860 /* PlistBookmark */ = 563025C913C7093100BFE860 /* PlistBookmark */;
-			563025CA13C7093100BFE860 /* PBXTextBookmark */ = 563025CA13C7093100BFE860 /* PBXTextBookmark */;
-			563025CB13C7093100BFE860 /* PBXTextBookmark */ = 563025CB13C7093100BFE860 /* PBXTextBookmark */;
-			563025CC13C7093100BFE860 /* PBXTextBookmark */ = 563025CC13C7093100BFE860 /* PBXTextBookmark */;
-			563025D313C7096500BFE860 /* PBXTextBookmark */ = 563025D313C7096500BFE860 /* PBXTextBookmark */;
-			563025D713C709BD00BFE860 /* PBXTextBookmark */ = 563025D713C709BD00BFE860 /* PBXTextBookmark */;
-			563025E513C70B2400BFE860 /* PBXTextBookmark */ = 563025E513C70B2400BFE860 /* PBXTextBookmark */;
-			563025E613C70B2400BFE860 /* PBXTextBookmark */ = 563025E613C70B2400BFE860 /* PBXTextBookmark */;
-			563025E913C70B2400BFE860 /* PBXTextBookmark */ = 563025E913C70B2400BFE860 /* PBXTextBookmark */;
-			563025EA13C70B2400BFE860 /* PBXTextBookmark */ = 563025EA13C70B2400BFE860 /* PBXTextBookmark */;
-			563025EB13C70B2400BFE860 /* PBXTextBookmark */ = 563025EB13C70B2400BFE860 /* PBXTextBookmark */;
-			563025EC13C70B3900BFE860 /* PBXTextBookmark */ = 563025EC13C70B3900BFE860 /* PBXTextBookmark */;
-			563025ED13C70B3900BFE860 /* PBXTextBookmark */ = 563025ED13C70B3900BFE860 /* PBXTextBookmark */;
-			56C0769D13C509290070B54D = 56C0769D13C509290070B54D /* PBXTextBookmark */;
+			5630255B13C6378C00BFE860 = 5630255B13C6378C00BFE860 /* PlistBookmark */;
+			563025C913C7093100BFE860 = 563025C913C7093100BFE860 /* PlistBookmark */;
+			563025CA13C7093100BFE860 = 563025CA13C7093100BFE860 /* PBXTextBookmark */;
+			563025E513C70B2400BFE860 = 563025E513C70B2400BFE860 /* PBXTextBookmark */;
+			563025EF13C73B9900BFE860 = 563025EF13C73B9900BFE860 /* PBXTextBookmark */;
+			564F150A13CA19D3009C3BAE /* PBXTextBookmark */ = 564F150A13CA19D3009C3BAE /* PBXTextBookmark */;
 			56C076CD13C509FF0070B54D = 56C076CD13C509FF0070B54D /* PBXTextBookmark */;
 			56C076FC13C50F9B0070B54D = 56C076FC13C50F9B0070B54D /* PBXTextBookmark */;
-			56C076FD13C50F9B0070B54D = 56C076FD13C50F9B0070B54D /* PlistBookmark */;
-			56C076FE13C50F9B0070B54D = 56C076FE13C50F9B0070B54D /* PBXTextBookmark */;
-			56C076FF13C50F9B0070B54D = 56C076FF13C50F9B0070B54D /* PBXTextBookmark */;
-			56C0770013C50F9B0070B54D = 56C0770013C50F9B0070B54D /* PBXTextBookmark */;
 			56DE82AD13BBAF1A00EC2546 = 56DE82AD13BBAF1A00EC2546 /* PBXTextBookmark */;
 			56DE82AE13BBAF1A00EC2546 = 56DE82AE13BBAF1A00EC2546 /* PBXTextBookmark */;
-			56DE82E413BDD67000EC2546 = 56DE82E413BDD67000EC2546 /* PlistBookmark */;
 			56DE82E513BDD67000EC2546 = 56DE82E513BDD67000EC2546 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 56DE828913BA787B00EC2546 /* Source Control */;
@@ -248,49 +221,7 @@
 		);
 		name = /Users/bender/projects/personal/ios/DrinkMixer/DrinkArray.plist;
 		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	5630255C13C6378C00BFE860 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 5630254C13C50FD900BFE860 /* DrinkDirections.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = /Users/bender/projects/personal/ios/DrinkMixer/DrinkDirections.plist;
-		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	5630255D13C6378C00BFE860 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 5630254C13C50FD900BFE860 /* DrinkDirections.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = /Users/bender/projects/personal/ios/DrinkMixer/DrinkDirections.plist;
-		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	5630256013C6378C00BFE860 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
-		name = "RootViewController.m: 57";
-		rLen = 0;
-		rLoc = 1861;
-		rType = 0;
-		vrLen = 1656;
-		vrLoc = 0;
-	};
-	5630256113C6378C00BFE860 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
-		name = "RootViewController.m: 57";
-		rLen = 0;
-		rLoc = 1861;
-		rType = 0;
-		vrLen = 1640;
-		vrLoc = 0;
+		rLoc = 9223372036854775808;
 	};
 	5630257113C637C300BFE860 /* RootViewController.m:39 */ = {
 		isa = PBXFileBreakpoint;
@@ -306,111 +237,9 @@
 		ignoreCount = 0;
 		lineNumber = 39;
 		location = DrinkMixer;
-		modificationTime = 331757645.028616;
+		modificationTime = 331757645.0286161;
 		originalNumberOfMultipleMatches = 1;
 		state = 1;
-	};
-	5630257513C637C900BFE860 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 5630254C13C50FD900BFE860 /* DrinkDirections.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = /Users/bender/projects/personal/ios/DrinkMixer/DrinkDirections.plist;
-		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	5630257613C637C900BFE860 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
-		name = "RootViewController.m: 57";
-		rLen = 0;
-		rLoc = 1861;
-		rType = 0;
-		vrLen = 1507;
-		vrLoc = 480;
-	};
-	5630257713C637C900BFE860 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
-		name = "RootViewController.m: 57";
-		rLen = 0;
-		rLoc = 1861;
-		rType = 0;
-		vrLen = 1640;
-		vrLoc = 0;
-	};
-	563025A113C706F100BFE860 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 5630254C13C50FD900BFE860 /* DrinkDirections.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = /Users/bender/projects/personal/ios/DrinkMixer/DrinkDirections.plist;
-		rLen = 0;
-		rLoc = 9223372036854775807;
-	};
-	563025A413C706F100BFE860 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
-		name = "DrinkDetailViewController.h: 10";
-		rLen = 0;
-		rLoc = 280;
-		rType = 0;
-		vrLen = 466;
-		vrLoc = 0;
-	};
-	563025A513C706F100BFE860 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
-		name = "DrinkDetailViewController.m: 4";
-		rLen = 0;
-		rLoc = 108;
-		rType = 0;
-		vrLen = 413;
-		vrLoc = 0;
-	};
-	563025A613C706F100BFE860 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
-		name = "DrinkDetailViewController.m: 15";
-		rLen = 0;
-		rLoc = 602;
-		rType = 0;
-		vrLen = 435;
-		vrLoc = 0;
-	};
-	563025A913C706F100BFE860 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
-		name = "RootViewController.h: 4";
-		rLen = 14;
-		rLoc = 82;
-		rType = 0;
-		vrLen = 166;
-		vrLoc = 0;
-	};
-	563025AA13C706F100BFE860 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
-		name = "RootViewController.m: 38";
-		rLen = 0;
-		rLoc = 1225;
-		rType = 0;
-		vrLen = 1688;
-		vrLoc = 0;
-	};
-	563025AB13C706F100BFE860 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
-		name = "RootViewController.m: 38";
-		rLen = 0;
-		rLoc = 1225;
-		rType = 0;
-		vrLen = 1753;
-		vrLoc = 0;
 	};
 	563025B913C7081F00BFE860 /* DrinkConstants.h */ = {
 		uiCtxt = {
@@ -429,7 +258,7 @@
 		);
 		name = /Users/bender/projects/personal/ios/DrinkMixer/DrinkDirections.plist;
 		rLen = 0;
-		rLoc = 9223372036854775807;
+		rLoc = 9223372036854775808;
 	};
 	563025CA13C7093100BFE860 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -439,46 +268,6 @@
 		rLoc = 100;
 		rType = 0;
 		vrLen = 106;
-		vrLoc = 0;
-	};
-	563025CB13C7093100BFE860 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
-		name = "main.m: 5";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 367;
-		vrLoc = 0;
-	};
-	563025CC13C7093100BFE860 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
-		name = "RootViewController.m: 38";
-		rLen = 0;
-		rLoc = 1134;
-		rType = 0;
-		vrLen = 1713;
-		vrLoc = 0;
-	};
-	563025D313C7096500BFE860 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
-		name = "main.m: 5";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 367;
-		vrLoc = 0;
-	};
-	563025D713C709BD00BFE860 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
-		name = "main.m: 1";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 229;
 		vrLoc = 0;
 	};
 	563025E513C70B2400BFE860 /* PBXTextBookmark */ = {
@@ -491,7 +280,7 @@
 		vrLen = 229;
 		vrLoc = 0;
 	};
-	563025E613C70B2400BFE860 /* PBXTextBookmark */ = {
+	563025EF13C73B9900BFE860 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 13";
@@ -501,47 +290,7 @@
 		vrLen = 717;
 		vrLoc = 0;
 	};
-	563025E913C70B2400BFE860 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
-		name = "DrinkDetailViewController.h: 10";
-		rLen = 0;
-		rLoc = 280;
-		rType = 0;
-		vrLen = 466;
-		vrLoc = 0;
-	};
-	563025EA13C70B2400BFE860 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
-		name = "DrinkDetailViewController.m: 13";
-		rLen = 0;
-		rLoc = 565;
-		rType = 0;
-		vrLen = 462;
-		vrLoc = 0;
-	};
-	563025EB13C70B2400BFE860 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
-		name = "DrinkDetailViewController.m: 13";
-		rLen = 0;
-		rLoc = 438;
-		rType = 0;
-		vrLen = 717;
-		vrLoc = 0;
-	};
-	563025EC13C70B3900BFE860 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
-		name = "DrinkDetailViewController.m: 13";
-		rLen = 0;
-		rLoc = 438;
-		rType = 0;
-		vrLen = 717;
-		vrLoc = 0;
-	};
-	563025ED13C70B3900BFE860 /* PBXTextBookmark */ = {
+	564F150A13CA19D3009C3BAE /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 13";
@@ -569,16 +318,6 @@
 		originalNumberOfMultipleMatches = 1;
 		state = 1;
 	};
-	56C0769D13C509290070B54D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
-		name = "main.m: 5";
-		rLen = 0;
-		rLoc = 0;
-		rType = 0;
-		vrLen = 367;
-		vrLoc = 0;
-	};
 	56C076CD13C509FF0070B54D /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
@@ -597,47 +336,6 @@
 		rLoc = 0;
 		rType = 0;
 		vrLen = 933;
-		vrLoc = 0;
-	};
-	56C076FD13C50F9B0070B54D /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 56DE82C013BDC2C600EC2546 /* DrinkArray.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = /Users/bender/projects/personal/ios/DrinkMixer/DrinkArray.plist;
-		rLen = 0;
-		rLoc = 9223372036854775808;
-	};
-	56C076FE13C50F9B0070B54D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
-		name = "RootViewController.h: 4";
-		rLen = 0;
-		rLoc = 96;
-		rType = 0;
-		vrLen = 166;
-		vrLoc = 0;
-	};
-	56C076FF13C50F9B0070B54D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
-		name = "RootViewController.m: 21";
-		rLen = 0;
-		rLoc = 589;
-		rType = 0;
-		vrLen = 1640;
-		vrLoc = 0;
-	};
-	56C0770013C50F9B0070B54D /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
-		name = "RootViewController.m: 36";
-		rLen = 0;
-		rLoc = 1133;
-		rType = 0;
-		vrLen = 1656;
 		vrLoc = 0;
 	};
 	56DE827913BA786600EC2546 /* DrinkMixer */ = {
@@ -711,17 +409,6 @@
 			sepNavWindowFrame = "{{307, -806}, {1281, 795}}";
 		};
 	};
-	56DE82E413BDD67000EC2546 /* PlistBookmark */ = {
-		isa = PlistBookmark;
-		fRef = 56DE82C013BDC2C600EC2546 /* DrinkArray.plist */;
-		fallbackIsa = PBXBookmark;
-		isK = 0;
-		kPath = (
-		);
-		name = /Users/bender/projects/personal/ios/DrinkMixer/DrinkArray.plist;
-		rLen = 0;
-		rLoc = 9223372036854775808;
-	};
 	56DE82E513BDD67000EC2546 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
@@ -742,7 +429,7 @@
 	};
 	56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1217, 644}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1337, 460}}";
 			sepNavSelRange = "{438, 0}";
 			sepNavVisRange = "{0, 717}";
 			sepNavWindowFrame = "{{4, 4}, {1276, 774}}";
