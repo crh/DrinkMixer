@@ -31,18 +31,18 @@
 	};
 	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1217, 671}}";
+			sepNavIntBoundsRect = "{{0, 0}, {726, 648}}";
 			sepNavSelRange = "{312, 0}";
 			sepNavVisRange = "{0, 313}";
-			sepNavWindowFrame = "{{4, 0}, {1276, 778}}";
+			sepNavWindowFrame = "{{601, 250}, {785, 778}}";
 		};
 	};
 	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1055, 975}}";
-			sepNavSelRange = "{129, 0}";
-			sepNavVisRange = "{0, 1908}";
-			sepNavWindowFrame = "{{4, 0}, {1254, 778}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1055, 949}}";
+			sepNavSelRange = "{200, 0}";
+			sepNavVisRange = "{0, 1870}";
+			sepNavWindowFrame = "{{7, 250}, {785, 778}}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
@@ -53,7 +53,7 @@
 			1D6058900D05DD3D006BFB54 /* DrinkMixer */,
 		);
 		breakpoints = (
-			56C0769913C509220070B54D /* DrinkDetailViewController.m:13 */,
+			56C0769913C509220070B54D /* DrinkDetailViewController.m:17 */,
 			5630257113C637C300BFE860 /* RootViewController.m:39 */,
 		);
 		codeSenseManager = 56DE828A13BA787B00EC2546 /* Code sense */;
@@ -94,7 +94,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					824,
+					1224,
 					20,
 					48,
 					43,
@@ -335,6 +335,38 @@
 			568FABA513CB810A00202F1F /* PBXTextBookmark */ = 568FABA513CB810A00202F1F /* PBXTextBookmark */;
 			568FABA613CB810A00202F1F /* PBXTextBookmark */ = 568FABA613CB810A00202F1F /* PBXTextBookmark */;
 			568FABA713CB810A00202F1F /* PBXTextBookmark */ = 568FABA713CB810A00202F1F /* PBXTextBookmark */;
+			568FABAB13CCD3D800202F1F /* PBXTextBookmark */ = 568FABAB13CCD3D800202F1F /* PBXTextBookmark */;
+			568FABB413CCD59000202F1F /* PBXTextBookmark */ = 568FABB413CCD59000202F1F /* PBXTextBookmark */;
+			568FABB513CCD59000202F1F /* PBXTextBookmark */ = 568FABB513CCD59000202F1F /* PBXTextBookmark */;
+			568FABB813CCD59000202F1F /* PBXTextBookmark */ = 568FABB813CCD59000202F1F /* PBXTextBookmark */;
+			568FABB913CCD59000202F1F /* PBXTextBookmark */ = 568FABB913CCD59000202F1F /* PBXTextBookmark */;
+			568FABBA13CCD59000202F1F /* PBXTextBookmark */ = 568FABBA13CCD59000202F1F /* PBXTextBookmark */;
+			568FABBF13CCD59F00202F1F /* PBXTextBookmark */ = 568FABBF13CCD59F00202F1F /* PBXTextBookmark */;
+			568FABC013CCD59F00202F1F /* PBXTextBookmark */ = 568FABC013CCD59F00202F1F /* PBXTextBookmark */;
+			568FABC113CCD59F00202F1F /* PBXTextBookmark */ = 568FABC113CCD59F00202F1F /* PBXTextBookmark */;
+			568FABC213CCD5C100202F1F /* PBXTextBookmark */ = 568FABC213CCD5C100202F1F /* PBXTextBookmark */;
+			568FABC313CCD5C100202F1F /* PBXTextBookmark */ = 568FABC313CCD5C100202F1F /* PBXTextBookmark */;
+			568FABC613CCD5D400202F1F /* PBXTextBookmark */ = 568FABC613CCD5D400202F1F /* PBXTextBookmark */;
+			568FABC713CCD5D400202F1F /* PBXTextBookmark */ = 568FABC713CCD5D400202F1F /* PBXTextBookmark */;
+			568FABC813CCD5D400202F1F /* PBXTextBookmark */ = 568FABC813CCD5D400202F1F /* PBXTextBookmark */;
+			568FABCD13CCD6B700202F1F /* PBXBookmark */ = 568FABCD13CCD6B700202F1F /* PBXBookmark */;
+			568FABD013CCD74800202F1F /* PBXBookmark */ = 568FABD013CCD74800202F1F /* PBXBookmark */;
+			568FABD213CCD75300202F1F /* PBXTextBookmark */ = 568FABD213CCD75300202F1F /* PBXTextBookmark */;
+			568FABD313CCD75300202F1F /* PBXTextBookmark */ = 568FABD313CCD75300202F1F /* PBXTextBookmark */;
+			568FABD413CCD75300202F1F /* PBXTextBookmark */ = 568FABD413CCD75300202F1F /* PBXTextBookmark */;
+			568FABD713CCD75300202F1F /* PBXTextBookmark */ = 568FABD713CCD75300202F1F /* PBXTextBookmark */;
+			568FABDA13CCD75300202F1F /* PBXTextBookmark */ = 568FABDA13CCD75300202F1F /* PBXTextBookmark */;
+			568FABEF13CCDC6000202F1F /* PBXBookmark */ = 568FABEF13CCDC6000202F1F /* PBXBookmark */;
+			568FABF313CCDE5300202F1F /* PBXTextBookmark */ = 568FABF313CCDE5300202F1F /* PBXTextBookmark */;
+			568FABF613CCDE5300202F1F /* PBXTextBookmark */ = 568FABF613CCDE5300202F1F /* PBXTextBookmark */;
+			568FABF713CCDE5300202F1F /* PBXTextBookmark */ = 568FABF713CCDE5300202F1F /* PBXTextBookmark */;
+			568FABFA13CCDE5300202F1F /* PBXTextBookmark */ = 568FABFA13CCDE5300202F1F /* PBXTextBookmark */;
+			568FABFB13CCDE5300202F1F /* PBXTextBookmark */ = 568FABFB13CCDE5300202F1F /* PBXTextBookmark */;
+			568FABFC13CCDE5300202F1F /* PBXTextBookmark */ = 568FABFC13CCDE5300202F1F /* PBXTextBookmark */;
+			568FAC0313CCDE8300202F1F /* PBXTextBookmark */ = 568FAC0313CCDE8300202F1F /* PBXTextBookmark */;
+			568FAC0413CCDE8300202F1F /* PBXTextBookmark */ = 568FAC0413CCDE8300202F1F /* PBXTextBookmark */;
+			568FAC0513CCDE8300202F1F /* PBXTextBookmark */ = 568FAC0513CCDE8300202F1F /* PBXTextBookmark */;
+			568FAC0613CCDE8300202F1F /* PBXTextBookmark */ = 568FAC0613CCDE8300202F1F /* PBXTextBookmark */;
 			56C076CD13C509FF0070B54D = 56C076CD13C509FF0070B54D /* PBXTextBookmark */;
 			56C076FC13C50F9B0070B54D = 56C076FC13C50F9B0070B54D /* PBXTextBookmark */;
 			56DE82AD13BBAF1A00EC2546 = 56DE82AD13BBAF1A00EC2546 /* PBXTextBookmark */;
@@ -425,7 +457,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 13";
 		rLen = 0;
-		rLoc = 438;
+		rLoc = 544;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -435,25 +467,25 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 13";
 		rLen = 0;
-		rLoc = 438;
+		rLoc = 544;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
 	};
 	564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1217, 648}}";
-			sepNavSelRange = "{128, 0}";
+			sepNavIntBoundsRect = "{{0, 0}, {735, 895}}";
+			sepNavSelRange = "{130, 0}";
 			sepNavVisRange = "{0, 200}";
 			sepNavWindowFrame = "{{4, 0}, {1276, 778}}";
 		};
 	};
 	564F151B13CA22F5009C3BAE /* AddDrinkViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1217, 936}}";
-			sepNavSelRange = "{2011, 0}";
-			sepNavVisRange = "{573, 1482}";
-			sepNavWindowFrame = "{{4, 0}, {1276, 778}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1217, 648}}";
+			sepNavSelRange = "{167, 0}";
+			sepNavVisRange = "{0, 1024}";
+			sepNavWindowFrame = "{{404, 250}, {1276, 778}}";
 		};
 	};
 	564F151D13CA22F7009C3BAE /* PBXBookmark */ = {
@@ -469,7 +501,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 13";
 		rLen = 0;
-		rLoc = 438;
+		rLoc = 544;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -487,7 +519,7 @@
 		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
 		name = "AddDrinkViewController.h: 8";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 200;
 		rType = 0;
 		vrLen = 136;
 		vrLoc = 0;
@@ -547,7 +579,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -567,7 +599,7 @@
 		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
 		name = "AddDrinkViewController.h: 8";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 200;
 		rType = 0;
 		vrLen = 136;
 		vrLoc = 0;
@@ -597,7 +629,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -617,7 +649,7 @@
 		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
 		name = "AddDrinkViewController.h: 8";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 200;
 		rType = 0;
 		vrLen = 136;
 		vrLoc = 0;
@@ -647,7 +679,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -667,7 +699,7 @@
 		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
 		name = "AddDrinkViewController.h: 8";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 200;
 		rType = 0;
 		vrLen = 136;
 		vrLoc = 0;
@@ -697,7 +729,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -717,7 +749,7 @@
 		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
 		name = "AddDrinkViewController.h: 8";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 200;
 		rType = 0;
 		vrLen = 136;
 		vrLoc = 0;
@@ -757,7 +789,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -767,7 +799,7 @@
 		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
 		name = "AddDrinkViewController.h: 8";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 200;
 		rType = 0;
 		vrLen = 136;
 		vrLoc = 0;
@@ -797,7 +829,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -807,7 +839,7 @@
 		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
 		name = "AddDrinkViewController.h: 8";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 200;
 		rType = 0;
 		vrLen = 136;
 		vrLoc = 0;
@@ -837,7 +869,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -847,7 +879,7 @@
 		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
 		name = "AddDrinkViewController.h: 8";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 200;
 		rType = 0;
 		vrLen = 136;
 		vrLoc = 0;
@@ -877,7 +909,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -887,7 +919,7 @@
 		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
 		name = "AddDrinkViewController.h: 8";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 200;
 		rType = 0;
 		vrLen = 136;
 		vrLoc = 0;
@@ -917,7 +949,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -927,7 +959,7 @@
 		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
 		name = "AddDrinkViewController.h: 8";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 200;
 		rType = 0;
 		vrLen = 136;
 		vrLoc = 0;
@@ -957,7 +989,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -967,7 +999,7 @@
 		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
 		name = "AddDrinkViewController.h: 8";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 200;
 		rType = 0;
 		vrLen = 136;
 		vrLoc = 0;
@@ -997,7 +1029,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -1007,7 +1039,7 @@
 		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
 		name = "AddDrinkViewController.h: 8";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 200;
 		rType = 0;
 		vrLen = 136;
 		vrLoc = 0;
@@ -1037,7 +1069,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -1047,7 +1079,7 @@
 		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
 		name = "AddDrinkViewController.h: 8";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 200;
 		rType = 0;
 		vrLen = 136;
 		vrLoc = 0;
@@ -1077,7 +1109,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -1087,7 +1119,7 @@
 		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
 		name = "AddDrinkViewController.h: 8";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 200;
 		rType = 0;
 		vrLen = 136;
 		vrLoc = 0;
@@ -1117,7 +1149,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -1131,7 +1163,7 @@
 		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
 		name = "AddDrinkViewController.h: 8";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 200;
 		rType = 0;
 		vrLen = 136;
 		vrLoc = 0;
@@ -1141,7 +1173,7 @@
 		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
 		name = "AddDrinkViewController.h: 8";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 200;
 		rType = 0;
 		vrLen = 167;
 		vrLoc = 0;
@@ -1171,7 +1203,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -1181,7 +1213,7 @@
 		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
 		name = "AddDrinkViewController.h: 9";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 200;
 		rType = 0;
 		vrLen = 201;
 		vrLoc = 0;
@@ -1211,7 +1243,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -1221,7 +1253,7 @@
 		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
 		name = "AddDrinkViewController.h: 9";
 		rLen = 0;
-		rLoc = 199;
+		rLoc = 200;
 		rType = 0;
 		vrLen = 201;
 		vrLoc = 0;
@@ -1235,7 +1267,7 @@
 		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
 		name = "DrinkDetailViewController.h: 10";
 		rLen = 0;
-		rLoc = 280;
+		rLoc = 371;
 		rType = 0;
 		vrLen = 466;
 		vrLoc = 0;
@@ -1254,14 +1286,14 @@
 		isa = PBXTextBookmark;
 		fRef = 564F151B13CA22F5009C3BAE /* AddDrinkViewController.m */;
 		rLen = 0;
-		rLoc = 2060;
+		rLoc = 1024;
 		rType = 0;
 	};
 	568FAB4D13CB72F900202F1F /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = 564F151B13CA22F5009C3BAE /* AddDrinkViewController.m */;
 		name = "AddDrinkViewController.m: 5";
-		rLen = 497;
+		rLen = 0;
 		rLoc = 76;
 		rType = 0;
 		vrLen = 1412;
@@ -1282,7 +1314,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -1292,7 +1324,7 @@
 		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
 		name = "DrinkDetailViewController.h: 10";
 		rLen = 0;
-		rLoc = 280;
+		rLoc = 371;
 		rType = 0;
 		vrLen = 466;
 		vrLoc = 0;
@@ -1302,7 +1334,7 @@
 		fRef = 564F151B13CA22F5009C3BAE /* AddDrinkViewController.m */;
 		name = "AddDrinkViewController.m: 25";
 		rLen = 0;
-		rLoc = 1191;
+		rLoc = 647;
 		rType = 0;
 		vrLen = 1408;
 		vrLoc = 0;
@@ -1322,7 +1354,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -1332,7 +1364,7 @@
 		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
 		name = "DrinkDetailViewController.h: 10";
 		rLen = 0;
-		rLoc = 280;
+		rLoc = 371;
 		rType = 0;
 		vrLen = 466;
 		vrLoc = 0;
@@ -1342,7 +1374,7 @@
 		fRef = 564F151B13CA22F5009C3BAE /* AddDrinkViewController.m */;
 		name = "AddDrinkViewController.m: 25";
 		rLen = 0;
-		rLoc = 950;
+		rLoc = 406;
 		rType = 0;
 		vrLen = 1474;
 		vrLoc = 0;
@@ -1362,7 +1394,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -1372,7 +1404,7 @@
 		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
 		name = "DrinkDetailViewController.h: 10";
 		rLen = 0;
-		rLoc = 280;
+		rLoc = 371;
 		rType = 0;
 		vrLen = 466;
 		vrLoc = 0;
@@ -1382,7 +1414,7 @@
 		fRef = 564F151B13CA22F5009C3BAE /* AddDrinkViewController.m */;
 		name = "AddDrinkViewController.m: 25";
 		rLen = 0;
-		rLoc = 914;
+		rLoc = 370;
 		rType = 0;
 		vrLen = 1566;
 		vrLoc = 0;
@@ -1402,7 +1434,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -1412,7 +1444,7 @@
 		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
 		name = "DrinkDetailViewController.h: 10";
 		rLen = 0;
-		rLoc = 280;
+		rLoc = 371;
 		rType = 0;
 		vrLen = 466;
 		vrLoc = 0;
@@ -1422,7 +1454,7 @@
 		fRef = 564F151B13CA22F5009C3BAE /* AddDrinkViewController.m */;
 		name = "AddDrinkViewController.m: 25";
 		rLen = 0;
-		rLoc = 950;
+		rLoc = 406;
 		rType = 0;
 		vrLen = 1580;
 		vrLoc = 0;
@@ -1442,7 +1474,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -1452,7 +1484,7 @@
 		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
 		name = "DrinkDetailViewController.h: 10";
 		rLen = 0;
-		rLoc = 280;
+		rLoc = 371;
 		rType = 0;
 		vrLen = 466;
 		vrLoc = 0;
@@ -1462,7 +1494,7 @@
 		fRef = 564F151B13CA22F5009C3BAE /* AddDrinkViewController.m */;
 		name = "AddDrinkViewController.m: 26";
 		rLen = 0;
-		rLoc = 776;
+		rLoc = 232;
 		rType = 0;
 		vrLen = 1572;
 		vrLoc = 0;
@@ -1482,7 +1514,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -1492,7 +1524,7 @@
 		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
 		name = "DrinkDetailViewController.h: 10";
 		rLen = 0;
-		rLoc = 280;
+		rLoc = 371;
 		rType = 0;
 		vrLen = 466;
 		vrLoc = 0;
@@ -1502,7 +1534,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -1526,7 +1558,7 @@
 		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
 		name = "DrinkDetailViewController.h: 10";
 		rLen = 0;
-		rLoc = 280;
+		rLoc = 371;
 		rType = 0;
 		vrLen = 466;
 		vrLoc = 0;
@@ -1536,7 +1568,7 @@
 		fRef = 564F151B13CA22F5009C3BAE /* AddDrinkViewController.m */;
 		name = "AddDrinkViewController.m: 29";
 		rLen = 0;
-		rLoc = 1017;
+		rLoc = 473;
 		rType = 0;
 		vrLen = 1742;
 		vrLoc = 0;
@@ -1556,7 +1588,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -1566,7 +1598,7 @@
 		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
 		name = "DrinkDetailViewController.h: 10";
 		rLen = 0;
-		rLoc = 280;
+		rLoc = 371;
 		rType = 0;
 		vrLen = 466;
 		vrLoc = 0;
@@ -1576,7 +1608,7 @@
 		fRef = 564F151B13CA22F5009C3BAE /* AddDrinkViewController.m */;
 		name = "AddDrinkViewController.m: 26";
 		rLen = 0;
-		rLoc = 775;
+		rLoc = 231;
 		rType = 0;
 		vrLen = 1775;
 		vrLoc = 0;
@@ -1596,7 +1628,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -1606,7 +1638,7 @@
 		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
 		name = "DrinkDetailViewController.h: 10";
 		rLen = 0;
-		rLoc = 280;
+		rLoc = 371;
 		rType = 0;
 		vrLen = 466;
 		vrLoc = 0;
@@ -1626,7 +1658,7 @@
 		fRef = 564F151B13CA22F5009C3BAE /* AddDrinkViewController.m */;
 		name = "AddDrinkViewController.m: 26";
 		rLen = 0;
-		rLoc = 775;
+		rLoc = 231;
 		rType = 0;
 		vrLen = 1699;
 		vrLoc = 0;
@@ -1636,7 +1668,7 @@
 		fRef = 564F151B13CA22F5009C3BAE /* AddDrinkViewController.m */;
 		name = "AddDrinkViewController.m: 57";
 		rLen = 0;
-		rLoc = 1862;
+		rLoc = 826;
 		rType = 0;
 		vrLen = 1428;
 		vrLoc = 452;
@@ -1656,7 +1688,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -1666,7 +1698,7 @@
 		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
 		name = "DrinkDetailViewController.h: 10";
 		rLen = 0;
-		rLoc = 280;
+		rLoc = 371;
 		rType = 0;
 		vrLen = 466;
 		vrLoc = 0;
@@ -1676,7 +1708,7 @@
 		fRef = 564F151B13CA22F5009C3BAE /* AddDrinkViewController.m */;
 		name = "AddDrinkViewController.m: 57";
 		rLen = 0;
-		rLoc = 1862;
+		rLoc = 826;
 		rType = 0;
 		vrLen = 1453;
 		vrLoc = 452;
@@ -1696,7 +1728,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -1706,7 +1738,7 @@
 		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
 		name = "DrinkDetailViewController.h: 10";
 		rLen = 0;
-		rLoc = 280;
+		rLoc = 371;
 		rType = 0;
 		vrLen = 466;
 		vrLoc = 0;
@@ -1716,7 +1748,7 @@
 		fRef = 564F151B13CA22F5009C3BAE /* AddDrinkViewController.m */;
 		name = "AddDrinkViewController.m: 61";
 		rLen = 0;
-		rLoc = 1952;
+		rLoc = 916;
 		rType = 0;
 		vrLen = 1467;
 		vrLoc = 452;
@@ -1736,7 +1768,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -1746,7 +1778,7 @@
 		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
 		name = "DrinkDetailViewController.h: 10";
 		rLen = 0;
-		rLoc = 280;
+		rLoc = 371;
 		rType = 0;
 		vrLen = 466;
 		vrLoc = 0;
@@ -1756,7 +1788,7 @@
 		fRef = 564F151B13CA22F5009C3BAE /* AddDrinkViewController.m */;
 		name = "AddDrinkViewController.m: 58";
 		rLen = 0;
-		rLoc = 1908;
+		rLoc = 872;
 		rType = 0;
 		vrLen = 1513;
 		vrLoc = 452;
@@ -1776,7 +1808,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
@@ -1786,7 +1818,7 @@
 		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
 		name = "DrinkDetailViewController.h: 10";
 		rLen = 0;
-		rLoc = 280;
+		rLoc = 371;
 		rType = 0;
 		vrLen = 466;
 		vrLoc = 0;
@@ -1796,7 +1828,7 @@
 		fRef = 564F151B13CA22F5009C3BAE /* AddDrinkViewController.m */;
 		name = "AddDrinkViewController.m: 63";
 		rLen = 0;
-		rLoc = 2011;
+		rLoc = 975;
 		rType = 0;
 		vrLen = 1482;
 		vrLoc = 573;
@@ -1816,12 +1848,311 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 7";
 		rLen = 1;
-		rLoc = 223;
+		rLoc = 329;
 		rType = 0;
 		vrLen = 717;
 		vrLoc = 0;
 	};
-	56C0769913C509220070B54D /* DrinkDetailViewController.m:13 */ = {
+	568FABAB13CCD3D800202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
+		name = "DrinkDetailViewController.h: 10";
+		rLen = 0;
+		rLoc = 371;
+		rType = 0;
+		vrLen = 466;
+		vrLoc = 0;
+	};
+	568FABB413CCD59000202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
+		name = "DrinkDetailViewController.h: 10";
+		rLen = 0;
+		rLoc = 371;
+		rType = 0;
+		vrLen = 466;
+		vrLoc = 0;
+	};
+	568FABB513CCD59000202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
+		name = "DrinkDetailViewController.m: 13";
+		rLen = 0;
+		rLoc = 544;
+		rType = 0;
+		vrLen = 717;
+		vrLoc = 0;
+	};
+	568FABB813CCD59000202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
+		name = "DrinkDetailViewController.m: 21";
+		rLen = 0;
+		rLoc = 672;
+		rType = 0;
+		vrLen = 717;
+		vrLoc = 0;
+	};
+	568FABB913CCD59000202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
+		rLen = 0;
+		rLoc = 9223372036854775898;
+		rType = 0;
+	};
+	568FABBA13CCD59000202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
+		name = "DrinkDetailViewController.h: 5";
+		rLen = 0;
+		rLoc = 139;
+		rType = 0;
+		vrLen = 501;
+		vrLoc = 0;
+	};
+	568FABBF13CCD59F00202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
+		name = "DrinkDetailViewController.m: 13";
+		rLen = 0;
+		rLoc = 544;
+		rType = 0;
+		vrLen = 717;
+		vrLoc = 0;
+	};
+	568FABC013CCD59F00202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
+		name = "DrinkDetailViewController.h: 5";
+		rLen = 0;
+		rLoc = 127;
+		rType = 0;
+		vrLen = 502;
+		vrLoc = 0;
+	};
+	568FABC113CCD59F00202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
+		name = "DrinkDetailViewController.m: 21";
+		rLen = 0;
+		rLoc = 672;
+		rType = 0;
+		vrLen = 717;
+		vrLoc = 0;
+	};
+	568FABC213CCD5C100202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
+		name = "DrinkDetailViewController.m: 13";
+		rLen = 0;
+		rLoc = 544;
+		rType = 0;
+		vrLen = 748;
+		vrLoc = 0;
+	};
+	568FABC313CCD5C100202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
+		name = "DrinkDetailViewController.m: 5";
+		rLen = 0;
+		rLoc = 120;
+		rType = 0;
+		vrLen = 752;
+		vrLoc = 0;
+	};
+	568FABC613CCD5D400202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
+		name = "DrinkDetailViewController.m: 13";
+		rLen = 0;
+		rLoc = 544;
+		rType = 0;
+		vrLen = 748;
+		vrLoc = 0;
+	};
+	568FABC713CCD5D400202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
+		name = "DrinkDetailViewController.m: 5";
+		rLen = 0;
+		rLoc = 120;
+		rType = 0;
+		vrLen = 752;
+		vrLoc = 0;
+	};
+	568FABC813CCD5D400202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
+		name = "DrinkDetailViewController.h: 12";
+		rLen = 0;
+		rLoc = 370;
+		rType = 0;
+		vrLen = 557;
+		vrLoc = 0;
+	};
+	568FABCD13CCD6B700202F1F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+	};
+	568FABD013CCD74800202F1F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
+	};
+	568FABD213CCD75300202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
+		name = "DrinkDetailViewController.m: 13";
+		rLen = 0;
+		rLoc = 544;
+		rType = 0;
+		vrLen = 748;
+		vrLoc = 0;
+	};
+	568FABD313CCD75300202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
+		name = "DrinkDetailViewController.h: 15";
+		rLen = 0;
+		rLoc = 515;
+		rType = 0;
+		vrLen = 557;
+		vrLoc = 0;
+	};
+	568FABD413CCD75300202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */;
+		name = "DrinkDetailViewController.h: 15";
+		rLen = 0;
+		rLoc = 515;
+		rType = 0;
+		vrLen = 557;
+		vrLoc = 0;
+	};
+	568FABD713CCD75300202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
+		name = "DrinkDetailViewController.m: 5";
+		rLen = 0;
+		rLoc = 119;
+		rType = 0;
+		vrLen = 752;
+		vrLoc = 0;
+	};
+	568FABDA13CCD75300202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 7";
+		rLen = 0;
+		rLoc = 200;
+		rType = 0;
+		vrLen = 1921;
+		vrLoc = 0;
+	};
+	568FABEF13CCDC6000202F1F /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 564F151B13CA22F5009C3BAE /* AddDrinkViewController.m */;
+	};
+	568FABF313CCDE5300202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
+		name = "DrinkDetailViewController.m: 9";
+		rLen = 0;
+		rLoc = 250;
+		rType = 0;
+		vrLen = 808;
+		vrLoc = 0;
+	};
+	568FABF613CCDE5300202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
+		name = "AddDrinkViewController.h: 6";
+		rLen = 0;
+		rLoc = 128;
+		rType = 0;
+		vrLen = 200;
+		vrLoc = 0;
+	};
+	568FABF713CCDE5300202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
+		name = "AddDrinkViewController.h: 7";
+		rLen = 0;
+		rLoc = 130;
+		rType = 0;
+		vrLen = 200;
+		vrLoc = 0;
+	};
+	568FABFA13CCDE5300202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 564F151B13CA22F5009C3BAE /* AddDrinkViewController.m */;
+		name = "AddDrinkViewController.m: 7";
+		rLen = 0;
+		rLoc = 167;
+		rType = 0;
+		vrLen = 1024;
+		vrLoc = 0;
+	};
+	568FABFB13CCDE5300202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
+		name = "DrinkDetailViewController.m: 5";
+		rLen = 0;
+		rLoc = 119;
+		rType = 0;
+		vrLen = 752;
+		vrLoc = 0;
+	};
+	568FABFC13CCDE5300202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
+		name = "DrinkDetailViewController.m: 5";
+		rLen = 0;
+		rLoc = 120;
+		rType = 0;
+		vrLen = 808;
+		vrLoc = 0;
+	};
+	568FAC0313CCDE8300202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
+		name = "DrinkDetailViewController.m: 8";
+		rLen = 0;
+		rLoc = 238;
+		rType = 0;
+		vrLen = 846;
+		vrLoc = 0;
+	};
+	568FAC0413CCDE8300202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 564F151A13CA22F5009C3BAE /* AddDrinkViewController.h */;
+		name = "AddDrinkViewController.h: 7";
+		rLen = 0;
+		rLoc = 130;
+		rType = 0;
+		vrLen = 200;
+		vrLoc = 0;
+	};
+	568FAC0513CCDE8300202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 564F151B13CA22F5009C3BAE /* AddDrinkViewController.m */;
+		name = "AddDrinkViewController.m: 7";
+		rLen = 0;
+		rLoc = 167;
+		rType = 0;
+		vrLen = 1024;
+		vrLoc = 0;
+	};
+	568FAC0613CCDE8300202F1F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
+		name = "DrinkDetailViewController.m: 5";
+		rLen = 0;
+		rLoc = 120;
+		rType = 0;
+		vrLen = 846;
+		vrLoc = 0;
+	};
+	56C0769913C509220070B54D /* DrinkDetailViewController.m:17 */ = {
 		isa = PBXFileBreakpoint;
 		actions = (
 		);
@@ -1833,7 +2164,7 @@
 		functionName = "-tableView:didSelectRowAtIndexPath:";
 		hitCount = 0;
 		ignoreCount = 0;
-		lineNumber = 13;
+		lineNumber = 17;
 		location = DrinkMixer;
 		modificationTime = 331757643.915984;
 		originalNumberOfMultipleMatches = 1;
@@ -1844,7 +2175,7 @@
 		fRef = 56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */;
 		name = "DrinkDetailViewController.m: 5";
 		rLen = 0;
-		rLoc = 438;
+		rLoc = 544;
 		rType = 0;
 		vrLen = 416;
 		vrLoc = 0;
@@ -1942,18 +2273,18 @@
 	};
 	56DE82E913BDD7EE00EC2546 /* DrinkDetailViewController.h */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1002, 321}}";
-			sepNavSelRange = "{280, 0}";
-			sepNavVisRange = "{0, 466}";
-			sepNavWindowFrame = "{{4, 0}, {1276, 778}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1217, 648}}";
+			sepNavSelRange = "{360, 0}";
+			sepNavVisRange = "{0, 557}";
+			sepNavWindowFrame = "{{65, 27}, {1276, 778}}";
 		};
 	};
 	56DE82EA13BDD7EE00EC2546 /* DrinkDetailViewController.m */ = {
 		uiCtxt = {
 			sepNavIntBoundsRect = "{{0, 0}, {1217, 644}}";
-			sepNavSelRange = "{223, 1}";
-			sepNavVisRange = "{0, 717}";
-			sepNavWindowFrame = "{{4, 4}, {1276, 774}}";
+			sepNavSelRange = "{120, 0}";
+			sepNavVisRange = "{0, 846}";
+			sepNavWindowFrame = "{{337, 0}, {1276, 1028}}";
 		};
 	};
 	8D1107310486CEB800E47090 /* DrinkMixer-Info.plist */ = {

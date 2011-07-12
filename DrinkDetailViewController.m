@@ -2,8 +2,12 @@
 #import "DrinkConstants.h"
 
 @implementation DrinkDetailViewController
-@synthesize drink, nameTextField, ingredientsTextView, directionsTextView;
+@synthesize drink, nameTextField, ingredientsTextView, directionsTextView,scrollView;
 
+- (void) viewDidLoad{
+	[super viewDidLoad];
+	scrollView.contentSize = self.view.frame.size	;
+}
 - (void) viewWillAppear:(BOOL)animated{
 	[super viewWillAppear:animated];
 	nameTextField.text=[drink objectForKey:NAME_KEY];
@@ -24,6 +28,7 @@
 	[nameTextField release];
 	[ingredientsTextView release];
 	[directionsTextView release];
+	[scrollView release];
 	[super dealloc];
 }
 
